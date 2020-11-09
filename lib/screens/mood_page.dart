@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'to_do.dart';
-import 'tracker.dart';
-import 'braindump.dart';
-import 'relax.dart';
+import '../modules/to_do.dart';
+import '../modules/tracker.dart';
+import '../modules/braindump.dart';
+import '../modules/relax.dart';
 
 class MoodPage extends StatelessWidget {
   static String tag = 'mood-page';

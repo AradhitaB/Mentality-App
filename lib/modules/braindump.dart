@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'note.dart';
+import '../models/note.dart';
 /*
 class Braindump extends StatelessWidget {
   static String tag = 'BrainDump';
